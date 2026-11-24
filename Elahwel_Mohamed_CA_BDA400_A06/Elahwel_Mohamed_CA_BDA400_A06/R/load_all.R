@@ -1,0 +1,10 @@
+# Load all indicator functions using base R only. Run from the project root.
+source("R/sma.R")
+source("R/ema.R")
+source("R/macd.R")
+source("R/stdev.R")
+source("R/linreg.R")
+source("R/rsi.R")
+source("R/stoch_rsi.R")
+source("R/crossover.R")
+source("R/crossunder.R")

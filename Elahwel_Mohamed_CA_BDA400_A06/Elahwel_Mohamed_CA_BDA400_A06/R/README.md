@@ -1,0 +1,1 @@
+These indicator function files are retained from Mohamed Elahwel's Assignment 5 project for continuity and reference. The Assignment 6 Shiny dashboard calculates its displayed SMA, RSI, and MACD series using TTR so the dashboard can align indicator values directly with the fetched OHLC data.

@@ -1,0 +1,7 @@
+Assignment 6 package cleanup
+- Fixed weekly and monthly aggregation to use xts::to.period().
+- Added xts and zoo to the required package checks.
+- Removed nested duplicate project-folder structure and R session history.
+- Included the required named R script, app.R, README, supporting R files, cover page, and user-provided evidence screenshots.
+- Updated reactive data loading so stock/date/time-frame changes refresh the dashboard.
+- Improved candlestick body widths for daily, weekly, and monthly views.
